@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TYPEC-306DDW-ARP16")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/symbol/TYPEC-306DDW-ARP16.kicad_sym")(options "")(descr ""))
+)
